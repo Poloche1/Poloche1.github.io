@@ -1,0 +1,53 @@
+h1{
+background-color: rgb(3, 184, 184);
+    color:rgb(5, 52, 105);
+    
+    font-size: xx-large;
+   
+
+}
+
+p{ color:rgb(50, 96, 150);
+    text-align: left;
+     font-size:x-large
+    
+    
+}
+
+body{
+margin: 100px;
+font-family:sans-serif;
+    color:rgb(17, 69, 128);
+    background-color: rgb(199, 221, 250);
+
+}
+
+li{
+
+text-align: left;
+
+}
+
+.hdos{
+
+    color: rgb(44, 44, 116);
+}
+
+section, article, aside
+{
+
+    border: 1px solid black;
+
+    margin: 10px;
+    padding: 10px;
+}
+
+.htres{
+background-color:rgb(126, 203, 255);
+}
+
+.indice{
+
+    font-weight: bold;
+    padding: 10px 60px;
+}
